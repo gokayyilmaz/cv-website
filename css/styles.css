@@ -1,6 +1,7 @@
 body {
   background-color: #eeeeee;
   color: #303841;
+  text-align: center;
 }
 
 hr {
@@ -18,3 +19,8 @@ h1{
 h3 {
   color: #00adb5;
 }
+
+.bottom {
+  color: grey
+}
+
